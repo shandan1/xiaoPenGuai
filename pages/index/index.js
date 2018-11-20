@@ -5,7 +5,7 @@ const app = getApp()
 Page({
   data: {
     motto: 'Hello World',
-    url:"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1542709307103&di=31dd79c698dae531e8045c8395d249ff&imgtype=0&src=http%3A%2F%2Fs4.sinaimg.cn%2Forignal%2F4bcd0a6637fed9158ded3",
+    url:"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1542713456659&di=aff3d4d22568354ef21d90642c87fa16&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201702%2F05%2F20170205110611_sFtA4.gif",
     userInfo: {},
     hasUserInfo: false,
     canIUse: wx.canIUse('button.open-type.getUserInfo')
